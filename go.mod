@@ -1,4 +1,4 @@
-module github.com/devvzero-inc/gotty
+module github.com/devzero-inc/gotty
 
 go 1.16
 
